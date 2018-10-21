@@ -1,3 +1,9 @@
 I try to do sth special in this repo ;)
 
 Hi! I just come back from the Git website!
+
+At first, I had a little problem with pushing my file on the website. Finally, I found out that I have to add '-f' before 'origin' in 'git push origin master' if this is my first pushing.
+And now it works! :)
+Enjoy,
+xoxo
+(not)Gosia Girl
